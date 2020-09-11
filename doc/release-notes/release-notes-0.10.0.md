@@ -622,7 +622,7 @@ Tests:
 - `263b65e` tests: run sanity checks in tests too
 
 Miscellaneous:
-- `122549f` Fix incorrect checkpoint data for testnet3
+- `122549f` Fix incorrect checkpoint data for testnet
 - `5bd02cf` Log used config file to debug.log on startup
 - `68ba85f` Updated Debian example bitcoin.conf with config from wiki + removed some cruft and updated comments
 - `e5ee8f0` Remove -beta suffix
